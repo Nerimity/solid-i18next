@@ -47,7 +47,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
-  "name": "@mbarzda/solid-i18next",
+  "name": "@nerimity/solid-i18next",
   "dependencies": {
     "html-parse-stringify": "^3.0.1"
   },
@@ -55,7 +55,7 @@
     "i18next": ">=21.x",
     "solid-js": ">=1.5.x"
   },
-  "repository": "github:mbarzda/solid-i18next",
+  "repository": "github:Nerimity/solid-i18next",
   "scripts": {
     "prebuild": "rimraf ./dist",
     "build": "vite build --config vite.build.config.js",
